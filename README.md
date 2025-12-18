@@ -72,11 +72,11 @@ ali_keyPair_list
 
 ## 環境對應
 
-| 環境 | 區域 ID | 位置 |
-|------|---------|------|
-| dev/stg | cn-hongkong | 香港 |
-| uat | ap-northeast-1 | 東京 |
-| prod | ap-southeast-6 | 馬尼拉 |
+| 環境    | 區域 ID        | 位置   |
+|---------|----------------|--------|
+| dev/stg | cn-hongkong    | 香港   |
+| uat     | ap-northeast-1 | 東京   |
+| prod    | ap-southeast-6 | 馬尼拉 |
 
 ## 注意事項
 
